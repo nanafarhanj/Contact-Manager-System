@@ -1,3 +1,4 @@
+# Contact Manager (FastAPI + React)
 Contact Manager is a full-stack web application designed to help users securely store, organize, and manage their personal contacts.
 Each user has a private account and can create their own phonebook with names, phone numbers, email addresses, and cities.
 The app supports user registration and login via JWT-based authentication.
